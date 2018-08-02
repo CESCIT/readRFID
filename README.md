@@ -2,7 +2,7 @@
 
 ## 安装识别RFID的模块方法为：
 
-cordova plugin add https://github.com/matrix-yang/readRFID.git
+cordova plugin add https://github.com/CESCIT/readRFID.git
 
 ## 卸载rfid模块的
 cordova plugin rm readRFID
